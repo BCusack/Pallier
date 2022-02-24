@@ -1,4 +1,4 @@
-## Pallier Encryption Algorithm
+## Paillier Encryption Algorithm
 
 ### _Python 3.9_
 

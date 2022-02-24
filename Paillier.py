@@ -5,7 +5,7 @@ from math import lcm, gcd,sqrt
 os.system('cls' if os.name == 'nt' else 'clear')
 
 """
-Server client communication with Pallier algorithm
+Server client communication with Paillier algorithm
 @author Brian Cusack
 """
 def loading():
